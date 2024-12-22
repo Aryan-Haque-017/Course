@@ -118,3 +118,7 @@ fun CourseList(topicList: List<Topic>, modifier: Modifier = Modifier) {
 fun CoursePreview() {
     CourseApp()
 }
+@Composable
+fun WhatUp() {
+    Text("hello")
+}
