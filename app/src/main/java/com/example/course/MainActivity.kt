@@ -58,6 +58,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun whatup () {
     print("helllo")
+    print("hkejhr")
+    print("lkjer")
 }
 
 
