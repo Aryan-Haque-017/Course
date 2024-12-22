@@ -121,8 +121,4 @@ fun CoursePreview() {
 @Composable
 fun WhatUp() {
     Text("hello")
-    sdfdsfdsf
-    dsfdsfsdf
-    sd
-    f
 }
