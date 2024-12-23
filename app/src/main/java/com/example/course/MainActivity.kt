@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
 fun whatup () {
     print("helllo")
     print("hkejhr")
-    print("lkjer")
+    print("latest config. ")
 }
 
 
