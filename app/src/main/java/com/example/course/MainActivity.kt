@@ -60,7 +60,7 @@ fun whatup () {
     print("helllo")
     print("hkejhr")
     print("latest config. ")
-    print("latest config master")
+    print("this line will be merged ")
 }
 
 
